@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "names": [
+    { "id": 1, "title": "John 1" },
+    { "id": 2, "title": "Priya 2" },
+    { "id": 3, "title": "Kumar 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Age": [
+    { "id": 1, "body": "20", "postId": 1 },
+    { "id": 2, "body": "21", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "prayutsu"
   }
 }
